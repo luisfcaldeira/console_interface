@@ -1,5 +1,11 @@
 # An interface for interacting with user
 
+## Installing
+
+```
+pip install console-interface
+```
+
 ## Reading
 
 For reading inputs from user, you can use this tool like this:
