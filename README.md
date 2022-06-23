@@ -21,5 +21,5 @@ You can use ```ConsoleLogger()``` for the purpose of writting something to user.
 ```python
 
 c = ConsoleLogger()
-c.log_this(msg="Message", profile=ErrorLoggerProfile()) #this will write in the red color. 
+c.log_this(msg="Message", profile=ErrorLoggerProfile()) #this will write in console with the red color. 
 ```
